@@ -1,4 +1,4 @@
-* API CHANGELLY
+API CHANGELLY
 =====================================
 
 The following methods are used to empower your service with Changelly exchange features. You can request more features by contacting our developers team. Changelly API is a white-label exchange solution.
